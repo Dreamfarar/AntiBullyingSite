@@ -9,7 +9,7 @@
     "react-router-dom": "^6.0.0",
     "tailwindcss": "^3.0.0",
     "lucide-react": "^0.278.0",
-    "@shadcn/ui": "22.14.0"
+    "@shadcn/ui": "19.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
